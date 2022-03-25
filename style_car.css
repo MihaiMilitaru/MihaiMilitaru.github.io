@@ -72,7 +72,7 @@ img {
 }
 
 .nav-menu li ~ li {
-    margin-left: 2rem;
+    margin-left: 1.7rem;
 }
 
 
@@ -424,7 +424,7 @@ th{
 
 @media screen and (max-width:576px){
 
-    subcontainer_story_specs{
+    .subcontainer_story{
         display: none;
     }
 
