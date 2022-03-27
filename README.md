@@ -1,1 +1,1 @@
-# http://mihaimilitaru.github.io/
+# MihaiMilitaru.github.io
